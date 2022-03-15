@@ -1,0 +1,9 @@
+
+Name =Sankalpa
+Full marks =258
+
+Name =Iesh
+Full marks =225
+
+Name =Sanka
+Full marks =228
